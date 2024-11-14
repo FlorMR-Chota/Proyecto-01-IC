@@ -1,0 +1,11 @@
+#Omitir archivos temporales de vsual estudio studio
+*.Suo
+*.User
+*.Sln.docstates
+*.tmp
+*.log
+.vs
+
+#Omitir archivos de compilación 
+bin
+obj
